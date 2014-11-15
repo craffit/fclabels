@@ -34,6 +34,7 @@ module Data.Label.Derive
 
 -- * Low level derivation functions.
 , mkLabelsWith
+, mkLabelsWithForDec
 , getLabelWith
 , defaultNaming
 )
